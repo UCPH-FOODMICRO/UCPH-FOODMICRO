@@ -21,12 +21,18 @@ However, using phyloseq as core is very powerfull. The datails are can be found 
 
 #### Plug-n-play workflows using R
 
+There are a few online tools by which the computation is done _elsewhere_ and hence do not require software installation.
+
+- [Step by step guide for using a _webbased_ platform](https://github.com/jcame/MicrobiomeAnalyst_UCPH-FOOD)
+
+However, if you do not want to be limited by functionallity, then use the more flexible tools as used in R. 
+
 If you are new to R and Rstudio, then use a bit of time on getting familar with this progam. See for instance this [introduction](https://microucph.github.io/amplicon_data_analysis/html/Rstudio.html) and some [basic functionallity](https://microucph.github.io/amplicon_data_analysis/html/R.html). Furhter it is very good idea to get familiar with using [Rmarkdown](https://rmarkdown.rstudio.com/) files as this intergrates code, output, figures and your own narrative. 
 
-- [Microbiome Data analysis](https://mortenarendt.github.io/MicrobiomeDataAnalysis/)
+s- [Microbiome Data analysis](https://mortenarendt.github.io/MicrobiomeDataAnalysis/)
 - [Microbiome Analysis](https://yanhui09.github.io/microbiome_analysis)
 - [Amplicon Data analysis](https://microucph.github.io/amplicon_data_analysis/)
-- some more
+- [Comprehensive list of microbiome tools in R](https://microsud.github.io/Tools-Microbiome-Analysis/)
 
 #### How to use the resources
 
