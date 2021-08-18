@@ -29,7 +29,7 @@ However, if you do not want to be limited by functionallity, then use the more f
 
 If you are new to R and Rstudio, then use a bit of time on getting familar with this progam. See for instance this [introduction](https://microucph.github.io/amplicon_data_analysis/html/Rstudio.html) and some [basic functionallity](https://microucph.github.io/amplicon_data_analysis/html/R.html). Furhter it is very good idea to get familiar with using [Rmarkdown](https://rmarkdown.rstudio.com/) files as this intergrates code, output, figures and your own narrative. 
 
-s- [Microbiome Data analysis](https://mortenarendt.github.io/MicrobiomeDataAnalysis/)
+- [Microbiome Data analysis](https://mortenarendt.github.io/MicrobiomeDataAnalysis/)
 - [Microbiome Analysis](https://yanhui09.github.io/microbiome_analysis)
 - [Amplicon Data analysis](https://microucph.github.io/amplicon_data_analysis/)
 - [Comprehensive list of microbiome tools in R](https://microsud.github.io/Tools-Microbiome-Analysis/)
