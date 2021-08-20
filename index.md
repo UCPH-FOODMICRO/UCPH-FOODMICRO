@@ -44,11 +44,7 @@ After this, you are ready to exchange the input data to your own, by simply load
 
 ### Data
 
-Within the tutorial pages referenced above, there are access to public datasets, in addition we have these datasets from various projects
-
-- dataset one
-- dataset two 
-- ...
+Within the tutorial pages referenced above, there are access to public datasets, in addition we have a R package only contaning data (i.e. no functions). These are data from various projects conducted on FOOD Microbiology. See [the github page](https://github.com/UCPH-FOODMICRO/microbiomedata) for information and installation. The data is free to be used for training, algorithm benchmarking etc. If used in publications, then please reference the paper found using the help function (?thedatasetobject) in R. 
 
 
 ## Student projects
